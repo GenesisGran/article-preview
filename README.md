@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-using-html-css-javascript-flexbox-and-media-query-Rwc64-DE6]
 - Live Site URL: [https://genesisgran.github.io/article-preview/]
 
 ## Built with
